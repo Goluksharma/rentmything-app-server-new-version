@@ -1,0 +1,16 @@
+package rentmything.rentmything.Model;
+
+public enum Category {
+    SINGLE_ROOM,
+   APARTMENT_3BHK,
+   APARTMENT_2BHK,
+   APARTMENT_1BHK,
+    DUKAN_ROOM,
+    BIKE_REPAIRING_POINT,
+    JCB_RENTAL,
+    MARRIGE_LOUNGE_RENTAL,
+    TRUCK_LORRY_RENTAL,
+    TENT_DECORATION_RENTAL,
+    OTHER_RENTAL
+    
+}
